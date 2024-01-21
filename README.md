@@ -1,6 +1,6 @@
 # Coding Ninjas Full Stack Web Development
 
-Hi, Check out my Social-Media-Platform with User-Friendly-Interface to register and authenticate users as well as create post,add likes,comments on the post.
+Hi, Check my Social-Media-Platform with User-Friendly-Interface to register and authenticate users as well as create post,add likes,comments on the post.
 
 Git Link:-- <a href='https://github.com/RaghabendraDash/Social-Media-Platform/'>Social-Media-Platform</a>
 
