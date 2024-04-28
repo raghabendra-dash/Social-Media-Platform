@@ -1,10 +1,10 @@
-# Coding Ninjas Full Stack Web Development
+## SOCIAL_MEDIA-BACKEND
 
 Hi, Check my Social-Media-API with User-Friendly-Interface to register and authenticate users as well as create post,add likes,comments on the post.
 
 
 
-## Technology:
+### Technology:
 
 - Node.js
 - Express.js
